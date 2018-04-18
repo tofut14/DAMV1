@@ -6,7 +6,7 @@ public class hellogit {
 		System.out.println("hellogit2");
 		//asdsa
 		// Aqui estuvo Carlos..
-		// 18-04-2018..
+		// 18-04-2018.. Aqui estuve
 		
 		// Javier..
 	}
