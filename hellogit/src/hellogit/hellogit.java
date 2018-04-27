@@ -12,6 +12,6 @@ public class hellogit {
 		
 		//Carlos está trabajando en la nueva rama.
 		// UNION ENTRE MASTER Y RAMA_CARLOS
-		// ESTO ES UNA PRUEBA
+		// ESTO ES UNA PRUEBA - DE AHORA MISMO!!!!
 	}
 }
